@@ -1,12 +1,9 @@
 # Github-Introduction-Lab-1
-Github Introduction Lab 1 (Account Setup and Navigation)
+Introduction to GitHub
 
 In this video I configure and explain the following:
 
-- How to setup a github account
+- Why are we using github
 - How to use github to access our lab initial configurations
+- explain difference between a private and public repository
 
-
-1) go to github website
-2) create new user account using a burner email address
-3) 
