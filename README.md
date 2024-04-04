@@ -6,4 +6,7 @@ In this video I configure and explain the following:
 - Why are we using github
 - How to use github to access our lab initial and final configurations
 - explain difference between a private and public repository
+    - show access to a private repo
+    - change repo to public repo
+    - show access to a public repo
 
