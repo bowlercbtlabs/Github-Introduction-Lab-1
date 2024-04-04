@@ -9,5 +9,6 @@ In this video I configure and explain the following:
     - show access to a private repo
     - change repo to public repo
     - show access to a public repo
-- Github will be used to store all device configurations moving forward and a link to the repo will be placed in all the video descriptions
+- Github will be used to store all device configurations and a link to the repo will be placed in all the video descriptions
+    - This will allow a more streamlined user experience by giving our views the ability to follow along with us step by step
 
