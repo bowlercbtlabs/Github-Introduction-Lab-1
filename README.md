@@ -1,4 +1,4 @@
-# Github-Introduction-Lab-1
+
 Introduction to GitHub
 
 In this video I configure and explain the following:
