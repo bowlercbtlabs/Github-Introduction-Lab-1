@@ -1,7 +1,7 @@
 
 Introduction to GitHub
 
-In this video I configure and explain the following:
+In this video I explain the following:
 
 - What is github?
    - used to store files/code
