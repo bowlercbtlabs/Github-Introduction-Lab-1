@@ -3,6 +3,9 @@ Introduction to GitHub
 
 In this video I configure and explain the following:
 
+- What is github?
+   - used to store files/code
+   - allows for real time collaboration of files/code between users (version control etc.)
 - Why are we using github
 - How to use github to access:
    - initial configurations
