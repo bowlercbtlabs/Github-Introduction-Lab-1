@@ -4,7 +4,10 @@ Introduction to GitHub
 In this video I configure and explain the following:
 
 - Why are we using github
-- How to use github to access our lab initial, final configurations and Read me guide for step by step instructions on how to complete the lab
+- How to use github to access:
+      - initial configurations
+      - final configurations
+      - Read me guide for step by step instructions on how to complete the lab
 - explain difference between a private and public repository
     - show access to a private repo
     - change repo to public repo
