@@ -7,8 +7,9 @@ In this video I configure and explain the following:
    - used to store files/code
    - allows for real time collaboration of files/code between users (version control etc.)
 - Why are we using github
-  - Github will be used to store all device configurations and a link to the repo will be placed in all the video descriptions
-  - This will allow a more streamlined user experience by giving our viewers the ability to follow along with us step by step
+  - github will be used to store all device configurations and a link to the repo will be placed in all the video descriptions
+  - The repo will also hold a step by step file so that the user can follow us while we perform the lab
+  - This will allow a more streamlined and interactive user experience
 - How to use github to access:
    - initial configurations
    -  final configurations
